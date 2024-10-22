@@ -22,7 +22,7 @@ title: Aidan R. Birdi
 email: aidan.birdi20@imperial.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   This is my academic website/blog. 
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://arbirdi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  arbirdi
