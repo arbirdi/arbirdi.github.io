@@ -10,7 +10,7 @@ I am a medical student at Imperial College London studying for an intercalated B
 
 ### Current Research
 
-My ongoing research project involves designing AI algorithms for future risk prediction using ECGs (with Dr. Arun Sau and Dr. Fu Siong Ng).
+My ongoing research project involves designing novel deep learning architectures for future risk prediction using ECGs (with Dr. Arun Sau and Dr. Fu Siong Ng).
 
 
 I have previous experience in the computational modelling of cardiac electrophysiological dynamics (in particular fibrillation) and its analysis using adapted information-theoretic methods (with Dr. Marta Varela and Dr. Pedro Mediano).
@@ -29,7 +29,8 @@ I am currently Co-President for the ICSM Coding Society, which aims to help medi
 Other than academics, I am interested in philosophy, music (classical and jazz) and I play the piano.
 
 
-Please feel free to add me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/aidan-birdi-7ba231187/)
-
+### Contact details
 
 My email address is: aidan.birdi20@imperial.ac.uk
+
+Please feel free to connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/aidan-birdi-7ba231187/)
