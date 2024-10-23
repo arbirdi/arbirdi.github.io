@@ -21,10 +21,10 @@
 title: Aidan R. Birdi
 email: aidan.birdi20@imperial.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Medical student.
+  Medical student
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://arbirdi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+#twitter_username: jekyllrb
 github_username:  arbirdi
 
 # Build settings
