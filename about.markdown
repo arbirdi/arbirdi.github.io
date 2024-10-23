@@ -8,7 +8,7 @@ I am a medical student at Imperial College London studying for an intercalated B
 
 ### Current Research
 
-My ongoing research project involves designing novel deep learning architectures for future risk prediction using ECGs and electronic healthcare records (EHRs) (with Dr. Arun Sau and Dr. Fu Siong Ng). [Cardiac Electrophysiology & AI Research Group][https://cardiacep.ai/team]
+My ongoing research project involves designing novel deep learning architectures for future risk prediction using ECGs and electronic healthcare records (EHRs) (with Dr. Arun Sau and Dr. Fu Siong Ng). [Cardiac Electrophysiology & AI Research Group][cardiac-ep-ai]
 
 
 I have previous experience in the computational modelling of cardiac electrophysiological dynamics (in particular fibrillation) and its analysis using adapted information-theoretic methods (with Dr. Marta Varela and Dr. Pedro Mediano).
@@ -32,3 +32,6 @@ Other than academics, I am interested in philosophy, music (classical and jazz) 
 My email address is: aidan.birdi20@imperial.ac.uk
 
 Please feel free to connect on [LinkedIn](https://www.linkedin.com/in/aidan-birdi-7ba231187/)
+
+
+[cardiac-ep-ai]: https://cardiacep.ai/team
