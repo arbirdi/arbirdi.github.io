@@ -29,6 +29,6 @@ Other than academics, I am interested in philosophy, music (classical and jazz) 
 
 ### Contact details
 
-My email address is: (aidan.birdi20@imperial.ac.uk)
+My email address is: aidan.birdi20@imperial.ac.uk
 
 Please feel free to connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/aidan-birdi-7ba231187/)
