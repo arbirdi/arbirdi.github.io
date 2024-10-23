@@ -4,8 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-## About Me
-
 I am a medical student at Imperial College London studying for an intercalated BSc Cardiovascular Sciences degree. I am interested in the application of mathematical and computational modelling to medical problems.
 
 ### Current Research
