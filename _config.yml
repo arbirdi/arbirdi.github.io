@@ -21,7 +21,7 @@
 title: Aidan R. Birdi
 email: aidan.birdi20@imperial.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a medical student at Imperial College London studying for an intercalated BSc Cardiovascular Sciences degree.
+  Medical student.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://arbirdi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
