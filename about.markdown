@@ -17,7 +17,7 @@ I have previous experience in the computational modelling of cardiac electrophys
 
 I am proficient in Python, R and MATLAB.
 
-My broad interests cover physics, statistics and machine learning, as well as medical topics including cardiology and epidemiology. I previously held a place to study MSCi Physics with Theoretical Physics at Imperial, before switching to MBBS/BSc.
+My broad interests cover physics, statistics and machine learning, as well as medical topics including cardiology and epidemiology.
 
 ### Leadership and Extracurriculars
 
